@@ -11,4 +11,4 @@ This is a project-based course which should take approximately 1 hour to finish.
 
 **Task 5:** Calculate mean & cumulative sum. Determine minimum & maximum values.
 
-**Task 6:** String operations such as converting to uppercase letters , lowercase letters, swap case, finding the length of a string, splitting strings and detecting unique values.
+**Task 6:** String operations such as converting to uppercase letters , lowercase letters, finding the length of a string, splitting strings and detecting unique values.
