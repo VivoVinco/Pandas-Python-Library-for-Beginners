@@ -1,4 +1,4 @@
-# Pandas Python Library for Beginners in Data Science
+# Pandas Python Library for Beginners
 This is a project-based course which should take approximately 1 hour to finish.
 
 Task 1: Three  methods of creating a series.
