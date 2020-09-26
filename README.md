@@ -12,5 +12,3 @@ Task 4: Get a summary of the data & view column names and data types.
 Task 5: Calculate mean & cumulative sum. Determine minimum & maximum values.
 
 Task 6: String operations such as converting to uppercase letters , lowercase letters, swap case, finding the length of a string, splitting strings and detecting unique values.
-
-Task 7: Repeating strings and conclusion to project.
