@@ -1,5 +1,5 @@
 # Pandas Python Library for Beginners
-This is a project-based beginner level course which should take approximately 1 hour to finish.
+This is a task-based notebook for beginners which should take approximately 1 hour to finish.
 
 **Task 1:** Three methods of creating a series.
 
